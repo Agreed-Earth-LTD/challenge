@@ -4,11 +4,11 @@
 
 ## Task 1
 
-build a plot of the overlapping.csv file and save it in the plot folder.
+Build a plot of the overlapping.csv file and save it in the plot folder.
 
 ![image](https://github.com/Agreed-Earth-LTD/challenge/blob/cc2d7232695dce9660b6468f579c8a321ec7f284/img/outwoods.jpg)
 
-build a plot of the Outwoods_Warren.shp file, save it in the plot folder, code as task1.py and comments in task1.md
+Build a plot of the Outwoods_Warren.shp file, save it in the plot folder, code as task1.py and comments in task1.md
 
 **Bonus:** compare using a symetrical difference method
 
@@ -22,8 +22,8 @@ Read predictions.csv file  and build a plot of the predictions
 
 ![image](https://user-images.githubusercontent.com/13650586/178600845-d610a539-f5d2-408c-88bc-36cc096a62a9.png)
 
-compare with the field truth in outwoods.shp file what can you see? 
-save the plot as .png python code as task2.py and your comments in task2.md
+Compare with the field truth in outwoods.shp file what can you see? 
+Save the plot as .png python code as task2.py and your comments in task2.md
 
 ## Task 3
 
