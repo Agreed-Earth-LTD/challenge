@@ -2,6 +2,12 @@
 
 **Files are in data folder**
 
+Tools:
+
+- Python
+- Qgis
+- Google Earth Engine
+
 ## Task 1
 
 Build a plot of the overlapping.csv file and save it in the plot folder.
