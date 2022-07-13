@@ -1,6 +1,6 @@
 # Challenge Agreed
 
-**Files are in data folder**
+**Files are in the data folder**
 
 Tools:
 
@@ -17,7 +17,7 @@ Build a plot of the overlapping.csv file and save it in the plot folder.
 
 Build a plot of the Outwoods_Warren.shp file, save it in the plot folder, code as task1.py and comments in task1.md
 
-**Bonus:** compare using a symetrical difference method
+**Bonus:** compare using a symmetrical difference method
 
 ![image](https://github.com/Agreed-Earth-LTD/challenge/blob/45f7cb9cc981ea71e57d4ac5203d5315ab7f59fc/img/sd.jpg)
 
@@ -25,7 +25,7 @@ save it in the plot folder code as bonus.py and comments in the bonus.md file
 
 ## Task 2
 
-Read predictions.csv file and build a plot of the predictions
+Read the predictions.csv file and build a plot of the predictions
 
 ![image](https://user-images.githubusercontent.com/13650586/178600845-d610a539-f5d2-408c-88bc-36cc096a62a9.png)
 
