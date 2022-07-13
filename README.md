@@ -37,7 +37,7 @@ Save the plot as .png, python code as task2.py and your comments in task2.md
 What method do you propose to improve a coarse resolution satellite image?
 save your comments in the task3.md file
 
-## Task 4 GEE
+## Task 4 Googel Earth Engine
 
 Add a cloud mask to the script and save it as gee.js
 
