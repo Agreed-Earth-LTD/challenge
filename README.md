@@ -7,6 +7,7 @@ Tools:
 - Python
 - Qgis
 - Google Earth Engine
+- others you need
 
 ## Task 1
 
