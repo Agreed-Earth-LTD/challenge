@@ -18,19 +18,25 @@ save it in the plot folder code as bonus.py and comments in the bonus.md file
 
 ## Task 2
 
-Read predictions.csv file  and build a plot of the predictions
+Read predictions.csv file and build a plot of the predictions
 
 ![image](https://user-images.githubusercontent.com/13650586/178600845-d610a539-f5d2-408c-88bc-36cc096a62a9.png)
 
 Compare with the field truth in outwoods.shp file what can you see? 
-Save the plot as .png python code as task2.py and your comments in task2.md
+Save the plot as .png, python code as task2.py and your comments in task2.md
 
 ## Task 3
 
 What method do you propose to improve a coarse resolution satellite image?
 save your comments in the task3.md file
 
-## Task 4
+## Task 4 GEE
+
+Add a cloud mask to the script and save it as gee.js
+
+[GEE Link](https://code.earthengine.google.com/3d3839b3cd9c590b88d3994982c6d8bd)
+
+## Task 5
 
 Make a Pull request with your solution
 
