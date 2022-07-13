@@ -27,7 +27,7 @@ save it in the plot folder code as bonus.py and comments in the bonus.md file
 
 Read the predictions.csv file and build a plot of the predictions
 
-![image](https://user-images.githubusercontent.com/13650586/178600845-d610a539-f5d2-408c-88bc-36cc096a62a9.png)
+![image](https://user-images.githubusercontent.com/13650586/178805195-f75c4ccb-fc5b-4c69-ab3a-e7f73fc1f54d.png)
 
 Compare with the field truth in outwoods.shp file. What can you see? Compare year over year data and determine if the accuracy of the prediction model improves. 
 Save the plot as .png, python code as task2.py and your comments in task2.md
