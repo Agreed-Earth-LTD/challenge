@@ -2,12 +2,12 @@
 
 **Files are in the data folder**
 
-Tools:
+Tools (use any or all of the following):
 
-- Python
+- Python (preference)
 - Qgis
 - Google Earth Engine
-- others you need
+- others you need/want
 
 ## Task 1
 
