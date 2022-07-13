@@ -41,6 +41,29 @@ save your comments in the task3.md file
 
 Add a cloud mask to the script and save it as gee.js
 
+```
+var geometry =ee.Geometry.Polygon(
+        [[[-0.3697612069195966, 50.87460964843314],
+          [-0.3697612069195966, 50.85662477701351],
+          [-0.3220393441266278, 50.85662477701351],
+          [-0.3220393441266278, 50.87460964843314]]], null, false);
+function addNDVI(image) {
+  return image.addBands(image.normalizedDifference(['B5', 'B4']).rename("ndvi"))
+}
+
+var collection = ee.ImageCollection("LANDSAT/LC08/C01/T1_TOA")
+      .filterDate('2019-02-01', '2019-09-01')
+      .map(addNDVI)
+
+var composite = collection.qualityMosaic('ndvi')
+
+print(ui.Chart.image.series({
+  imageCollection: collection.select('ndvi'), 
+  region: geometry, 
+  reducer: ee.Reducer.mean(),
+  scale: 100
+}))
+```
 [GEE Link](https://code.earthengine.google.com/3d3839b3cd9c590b88d3994982c6d8bd)
 
 ## Task 5
