@@ -29,7 +29,7 @@ Read the predictions.csv file and build a plot of the predictions
 
 ![image](https://user-images.githubusercontent.com/13650586/178600845-d610a539-f5d2-408c-88bc-36cc096a62a9.png)
 
-Compare with the field truth in outwoods.shp file. What can you see? 
+Compare with the field truth in outwoods.shp file. What can you see? Compare year over year data and determine if the accuracy of the prediction model improves. 
 Save the plot as .png, python code as task2.py and your comments in task2.md
 
 ## Task 3
