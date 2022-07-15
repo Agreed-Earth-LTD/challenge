@@ -43,4 +43,5 @@ save your comments in the task3.md file
 Make a Pull request with your solution
 
 
+## Previous Google Earth Engine "Task #4" has been removed 
 
