@@ -38,7 +38,7 @@ What method do you propose to improve a coarse resolution satellite image?
 save your comments in the task3.md file
 
 
-## Task 4
+## Task 4 - Previously, Task #5
 
 Make a Pull request with your solution
 
